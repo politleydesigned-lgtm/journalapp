@@ -1,0 +1,5 @@
+{
+  "name": "Privacy Vault AI",
+  "description": "A private, secure AI therapist that prioritizes your data sovereignty and mental well-being.",
+  "requestFramePermissions": ["microphone"]
+}
